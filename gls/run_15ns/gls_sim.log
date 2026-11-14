@@ -1,0 +1,5 @@
+VCD info: dumpfile alu32_tb.vcd opened for output.
+-----------------------------------------
+TESTS: 20864   ERRORS: 0   => PASS
+-----------------------------------------
+/home/abhi/alu32/tb/alu32_tb.v:152: $finish called at 208681000 (1ps)
